@@ -1,0 +1,11 @@
+/Users/ruhana/TaskApplication/TaskApp.Model/bin/Debug/net8.0/TaskApp.Model.deps.json
+/Users/ruhana/TaskApplication/TaskApp.Model/bin/Debug/net8.0/TaskApp.Model.dll
+/Users/ruhana/TaskApplication/TaskApp.Model/bin/Debug/net8.0/TaskApp.Model.pdb
+/Users/ruhana/TaskApplication/TaskApp.Model/obj/Debug/net8.0/TaskApp.Model.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ruhana/TaskApplication/TaskApp.Model/obj/Debug/net8.0/TaskApp.Model.AssemblyInfoInputs.cache
+/Users/ruhana/TaskApplication/TaskApp.Model/obj/Debug/net8.0/TaskApp.Model.AssemblyInfo.cs
+/Users/ruhana/TaskApplication/TaskApp.Model/obj/Debug/net8.0/TaskApp.Model.csproj.CoreCompileInputs.cache
+/Users/ruhana/TaskApplication/TaskApp.Model/obj/Debug/net8.0/TaskApp.Model.dll
+/Users/ruhana/TaskApplication/TaskApp.Model/obj/Debug/net8.0/refint/TaskApp.Model.dll
+/Users/ruhana/TaskApplication/TaskApp.Model/obj/Debug/net8.0/TaskApp.Model.pdb
+/Users/ruhana/TaskApplication/TaskApp.Model/obj/Debug/net8.0/ref/TaskApp.Model.dll

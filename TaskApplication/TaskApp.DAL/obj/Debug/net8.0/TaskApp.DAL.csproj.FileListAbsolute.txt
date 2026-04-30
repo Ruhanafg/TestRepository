@@ -1,0 +1,17 @@
+/Users/ruhana/TaskApplication/TaskApp.DAL/bin/Debug/net8.0/TaskApp.DAL.deps.json
+/Users/ruhana/TaskApplication/TaskApp.DAL/bin/Debug/net8.0/TaskApp.DAL.runtimeconfig.json
+/Users/ruhana/TaskApplication/TaskApp.DAL/bin/Debug/net8.0/TaskApp.DAL.dll
+/Users/ruhana/TaskApplication/TaskApp.DAL/bin/Debug/net8.0/TaskApp.DAL.pdb
+/Users/ruhana/TaskApplication/TaskApp.DAL/bin/Debug/net8.0/TaskApp.Model.dll
+/Users/ruhana/TaskApplication/TaskApp.DAL/bin/Debug/net8.0/TaskApp.Model.pdb
+/Users/ruhana/TaskApplication/TaskApp.DAL/obj/Debug/net8.0/TaskApp.DAL.csproj.AssemblyReference.cache
+/Users/ruhana/TaskApplication/TaskApp.DAL/obj/Debug/net8.0/TaskApp.DAL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ruhana/TaskApplication/TaskApp.DAL/obj/Debug/net8.0/TaskApp.DAL.AssemblyInfoInputs.cache
+/Users/ruhana/TaskApplication/TaskApp.DAL/obj/Debug/net8.0/TaskApp.DAL.AssemblyInfo.cs
+/Users/ruhana/TaskApplication/TaskApp.DAL/obj/Debug/net8.0/TaskApp.DAL.csproj.CoreCompileInputs.cache
+/Users/ruhana/TaskApplication/TaskApp.DAL/obj/Debug/net8.0/TaskApp.DAL.csproj.CopyComplete
+/Users/ruhana/TaskApplication/TaskApp.DAL/obj/Debug/net8.0/TaskApp.DAL.dll
+/Users/ruhana/TaskApplication/TaskApp.DAL/obj/Debug/net8.0/refint/TaskApp.DAL.dll
+/Users/ruhana/TaskApplication/TaskApp.DAL/obj/Debug/net8.0/TaskApp.DAL.pdb
+/Users/ruhana/TaskApplication/TaskApp.DAL/obj/Debug/net8.0/TaskApp.DAL.genruntimeconfig.cache
+/Users/ruhana/TaskApplication/TaskApp.DAL/obj/Debug/net8.0/ref/TaskApp.DAL.dll
