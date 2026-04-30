@@ -1,0 +1,17 @@
+/Users/ruhana/GroceryApplication/GroceryApplication.Infrastructure/bin/Debug/net8.0/GroceryApplication.Infrastructure.deps.json
+/Users/ruhana/GroceryApplication/GroceryApplication.Infrastructure/bin/Debug/net8.0/GroceryApplication.Infrastructure.runtimeconfig.json
+/Users/ruhana/GroceryApplication/GroceryApplication.Infrastructure/bin/Debug/net8.0/GroceryApplication.Infrastructure.dll
+/Users/ruhana/GroceryApplication/GroceryApplication.Infrastructure/bin/Debug/net8.0/GroceryApplication.Infrastructure.pdb
+/Users/ruhana/GroceryApplication/GroceryApplication.Infrastructure/bin/Debug/net8.0/GroceryApplication.Domain.dll
+/Users/ruhana/GroceryApplication/GroceryApplication.Infrastructure/bin/Debug/net8.0/GroceryApplication.Domain.pdb
+/Users/ruhana/GroceryApplication/GroceryApplication.Infrastructure/obj/Debug/net8.0/GroceryApplication.Infrastructure.csproj.AssemblyReference.cache
+/Users/ruhana/GroceryApplication/GroceryApplication.Infrastructure/obj/Debug/net8.0/GroceryApplication.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ruhana/GroceryApplication/GroceryApplication.Infrastructure/obj/Debug/net8.0/GroceryApplication.Infrastructure.AssemblyInfoInputs.cache
+/Users/ruhana/GroceryApplication/GroceryApplication.Infrastructure/obj/Debug/net8.0/GroceryApplication.Infrastructure.AssemblyInfo.cs
+/Users/ruhana/GroceryApplication/GroceryApplication.Infrastructure/obj/Debug/net8.0/GroceryApplication.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/ruhana/GroceryApplication/GroceryApplication.Infrastructure/obj/Debug/net8.0/GroceryApplication.Infrastructure.csproj.CopyComplete
+/Users/ruhana/GroceryApplication/GroceryApplication.Infrastructure/obj/Debug/net8.0/GroceryApplication.Infrastructure.dll
+/Users/ruhana/GroceryApplication/GroceryApplication.Infrastructure/obj/Debug/net8.0/refint/GroceryApplication.Infrastructure.dll
+/Users/ruhana/GroceryApplication/GroceryApplication.Infrastructure/obj/Debug/net8.0/GroceryApplication.Infrastructure.pdb
+/Users/ruhana/GroceryApplication/GroceryApplication.Infrastructure/obj/Debug/net8.0/GroceryApplication.Infrastructure.genruntimeconfig.cache
+/Users/ruhana/GroceryApplication/GroceryApplication.Infrastructure/obj/Debug/net8.0/ref/GroceryApplication.Infrastructure.dll

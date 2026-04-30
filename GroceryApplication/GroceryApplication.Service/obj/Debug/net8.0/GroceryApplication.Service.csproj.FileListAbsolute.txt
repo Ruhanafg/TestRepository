@@ -1,0 +1,17 @@
+/Users/ruhana/GroceryApplication/GroceryApplication.Service/bin/Debug/net8.0/GroceryApplication.Service.deps.json
+/Users/ruhana/GroceryApplication/GroceryApplication.Service/bin/Debug/net8.0/GroceryApplication.Service.dll
+/Users/ruhana/GroceryApplication/GroceryApplication.Service/bin/Debug/net8.0/GroceryApplication.Service.pdb
+/Users/ruhana/GroceryApplication/GroceryApplication.Service/bin/Debug/net8.0/GroceryApplication.Domain.dll
+/Users/ruhana/GroceryApplication/GroceryApplication.Service/bin/Debug/net8.0/GroceryApplication.Infrastructure.dll
+/Users/ruhana/GroceryApplication/GroceryApplication.Service/bin/Debug/net8.0/GroceryApplication.Domain.pdb
+/Users/ruhana/GroceryApplication/GroceryApplication.Service/bin/Debug/net8.0/GroceryApplication.Infrastructure.pdb
+/Users/ruhana/GroceryApplication/GroceryApplication.Service/obj/Debug/net8.0/GroceryApplication.Service.csproj.AssemblyReference.cache
+/Users/ruhana/GroceryApplication/GroceryApplication.Service/obj/Debug/net8.0/GroceryApplication.Service.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ruhana/GroceryApplication/GroceryApplication.Service/obj/Debug/net8.0/GroceryApplication.Service.AssemblyInfoInputs.cache
+/Users/ruhana/GroceryApplication/GroceryApplication.Service/obj/Debug/net8.0/GroceryApplication.Service.AssemblyInfo.cs
+/Users/ruhana/GroceryApplication/GroceryApplication.Service/obj/Debug/net8.0/GroceryApplication.Service.csproj.CoreCompileInputs.cache
+/Users/ruhana/GroceryApplication/GroceryApplication.Service/obj/Debug/net8.0/GroceryApplication.Service.csproj.CopyComplete
+/Users/ruhana/GroceryApplication/GroceryApplication.Service/obj/Debug/net8.0/GroceryApplication.Service.dll
+/Users/ruhana/GroceryApplication/GroceryApplication.Service/obj/Debug/net8.0/refint/GroceryApplication.Service.dll
+/Users/ruhana/GroceryApplication/GroceryApplication.Service/obj/Debug/net8.0/GroceryApplication.Service.pdb
+/Users/ruhana/GroceryApplication/GroceryApplication.Service/obj/Debug/net8.0/ref/GroceryApplication.Service.dll

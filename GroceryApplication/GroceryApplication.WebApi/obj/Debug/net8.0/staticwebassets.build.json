@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Z3NQotbuzTc528TeBGrgFtbxRirQwFcELkKky0ZtwDU=",
+  "Source": "GroceryApplication.WebApi",
+  "BasePath": "_content/GroceryApplication.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
